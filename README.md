@@ -109,7 +109,7 @@ O modelo de **Árvore de Decisão** foi selecionado pela sua simplicidade, robus
 | Recall    | 81,08%   |
 | F1-Score  | 81,35%   |
 
-![Matriz de Confusão do Hold-out](https://drive.google.com/file/d/18TECfL9roQotaOatFju33IUTXcfXPfly/view)
+![Matriz de Confusão do Hold-out](https://drive.google.com/uc?id=18TECfL9roQotaOatFju33IUTXcfXPfly)
 
 ### Avaliação com Validação Cruzada Estratificada (10 Dobras)
 
@@ -119,7 +119,7 @@ O modelo de **Árvore de Decisão** foi selecionado pela sua simplicidade, robus
 | Recall Médio    | 77,84%      |
 | F1-Score Médio  | 83,21%      |
 
-![Matriz de Confusão Média das 10 Dobras](https://drive.google.com/file/d/1w4EIJS6k4AV7bi2LwT1YISoK06l1CPwH/view)
+![Matriz de Confusão Média das 10 Dobras]([https://drive.google.com/file/d/](https://drive.google.com/uc?id=1w4EIJS6k4AV7bi2LwT1YISoK06l1CPwH)
 
 Os resultados da validação cruzada demonstram um **F1-Score médio consistente e promissor** de 83,21%, indicando a eficácia do modelo na detecção de fraudes, mesmo com o desafio do desbalanceamento de classes.
 
